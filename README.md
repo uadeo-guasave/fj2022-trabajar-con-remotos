@@ -12,3 +12,5 @@ echo "Hola" > README.md
 git add README.md
 git commit -m "Primera versión"
 ```
+
+Autor: Bidkar Aragón Cárdenas
